@@ -25,7 +25,9 @@ The project serves as a structured DSA practice repository for developing **algo
 * **Core Concepts**: Data Structures, Algorithms, Time Complexity, Space Complexity
 * **Practice Platform**: LeetCode
 * **Development**: Git, GitHub
-
-
+---
+## Category 
+- Problem Solving
+---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/surendar029?theme=dark&font=Emblema%20One&ext=contest)
 
