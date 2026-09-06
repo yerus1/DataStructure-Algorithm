@@ -29,5 +29,4 @@ The project serves as a structured DSA practice repository for developing **algo
 ## Category 
 - Problem Solving
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/surendar029?theme=dark&font=Emblema%20One&ext=contest)
 
